@@ -7,15 +7,15 @@ _____________
 
 
 
-![breather](assets/imgs/B1.jPG)
+![breather](assets/imgs/B1.JPG)
 
-![breather](assets/imgs/B2.jPG)
+![breather](assets/imgs/B2.JPG)
 
-![breather](assets/imgs/B4.jPG)
+![breather](assets/imgs/B4.JPG)
 
-![breather](assets/imgs/B3.jPG)
+![breather](assets/imgs/B3.JPG)
 
-![breather](assets/imgs/B5.jPG)
+![breather](assets/imgs/B5.JPG)
 
 ## Detalles adicionales
 
