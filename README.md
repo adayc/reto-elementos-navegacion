@@ -28,6 +28,17 @@ _____________
 
 ![breather](assets/imgs/G3.JPG)
 
+## MEDIUM
+
+
+
+
+![breather](assets/imgs/M1.JPG)
+
+![breather](assets/imgs/M2.JPG)
+
+![breather](assets/imgs/M3.JPG)
+
 
 ## Detalles adicionales
 
